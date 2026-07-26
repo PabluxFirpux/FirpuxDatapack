@@ -1,2 +1,1 @@
-say "Hola a todos"
-summon pig ~ ~ ~
+tellraw @a "Hola a todos"
