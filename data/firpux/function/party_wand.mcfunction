@@ -1,0 +1,10 @@
+execute anchored eyes run particle dust{color:[0f,0f,1f], scale:3f} ^ ^ ^1 0 0 0 0 2
+execute anchored eyes run particle dust{color:[0f,0f,1f], scale:3f} ^ ^ ^2 0 0 0 0 2
+execute anchored eyes run particle dust{color:[0f,0f,1f], scale:3f} ^ ^ ^3 0 0 0 0 2
+execute anchored eyes run particle dust{color:[0f,0f,1f], scale:3f} ^ ^ ^4 0 0 0 0 2
+execute anchored eyes run particle dust{color:[0f,0f,1f], scale:3f} ^ ^ ^5 0 0 0 0 2
+execute anchored eyes run particle dust{color:[0f,0f,1f], scale:3f} ^ ^ ^6 0 0 0 0 2
+execute anchored eyes run particle dust{color:[0f,0f,1f], scale:3f} ^ ^ ^7 0 0 0 0 2
+execute anchored eyes run particle dust{color:[0f,0f,1f], scale:3f} ^ ^ ^8 0 0 0 0 2
+execute anchored eyes run particle dust{color:[0f,0f,1f], scale:3f} ^ ^ ^9 0 0 0 0 2
+execute anchored eyes run particle dust{color:[0f,0f,1f], scale:3f} ^ ^ ^10 0 0 0 0 2

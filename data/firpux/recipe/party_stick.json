@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "minecraft:stick"
+  },
+  "pattern": [
+    "  #",
+    " # ",
+    "#  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:music_disc_11",
+    "components": {
+      "!jukebox_playable": {},
+      "item_name": {"text": "Party Wand :)", "color": "blue"},
+      "item_model": "minecraft:stick",
+      "lore": [{"text": "Texto ejemplo", "color": "gray", "bold": true, "italic": false}],
+      "piercing_weapon": {
+        "min_reach": 0.0,
+        "max_reach": 0.0,
+        "hitbox_margin": 0.0
+      } ,
+      "enchantments": {"firpux:party": 1},
+      "max_stack_size": 1
+    }
+  }
+}
